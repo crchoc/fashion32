@@ -83,5 +83,5 @@ for data in tqdm(old_data):
     new_data[data]['outfit_id'] = old_data[data]['Outfit_ID']
     new_data[data]['outfit_images'] = old_data[data]['Outfit_Images']
 
-write_json(REARRANGED_DATA, new_data)
+write_json(RESTRUCTURED_DATA, new_data)
 print('Data file is ready!')

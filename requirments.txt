@@ -1,0 +1,6 @@
+torch
+tqdm
+tensorflow
+keras
+torch
+torchvision

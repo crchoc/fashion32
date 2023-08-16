@@ -13,7 +13,7 @@ STYLE_FILE = '../jsons/style.json' # style info
 IMGS_LABEL = '../jsons/imgs_labels.json' # labels of images
 
 ALL_DATA_FILE = '../jsons/all_data.json' # all data
-REARRANGED_DATA = '../jsons/rearranged_data.json' # rearranged info
+RESTRUCTURED_DATA = '../jsons/rearranged_data.json' # rearranged info
 
 TRAIN_DATA_FILE = '../jsons/train_data.json' # train data
 TEST_DATA_FILE = '../jsons/test_data.json' # test data
